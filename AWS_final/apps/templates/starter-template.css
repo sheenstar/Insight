@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.jumbotron
+{
+background-color:#A05F5F;
+}
+
+<style type="text/css">
+.hovertext text {
+    font-size: 100px !important;
+}
+.legendtext {
+    font-size: 30px !important;
+}
+</style>
